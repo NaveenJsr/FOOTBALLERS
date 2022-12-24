@@ -1,0 +1,153 @@
+* {
+  background: skyblue;
+  position: fixed;
+  border: 0 solid blue;
+}
+
+r {
+  border-width: 70 130;
+  border-color: lightgreen;
+  top: 50;
+  left: 70;
+}
+
+t {
+  border-width: 30 40;
+  border-radius: 0 0 50px 50px;
+  top: 3;
+  left: 160;
+}
+u {
+  border-width: 30 40;
+  border-color: skyblue;
+  border-radius: 0 0 40px 40px;
+  top: -33;
+  left: 160;
+}
+
+v {
+  border-width: 40 30;
+  border-radius: 50px 0 0px 50px;
+  top: 80;
+  left: 320;
+}
+
+w {
+  border-width: 40 30;
+  border-color: skyblue;
+  border-radius: 40px 0 0px 40px;
+  top: 80;
+  left: 355;
+}
+
+x {
+  border-width: 40 30;
+  border-radius: 0 50px 50px 0;
+  top: 80;
+  left: 20;
+}
+
+y {
+  border-width: 40 30;
+  border-color: skyblue;
+  border-radius: 0 40px 40px 0;
+  top: 80;
+  left: -15;
+}
+
+e {
+  border-width: 30 40;
+  border-radius: 50px 50px 0 0;
+  top: 177;
+  left: 160;
+}
+f {
+  border-width: 30 40;
+  border-color: skyblue;
+  border-radius: 40px 40px 0 0;
+  top: 213;
+  left: 160;
+}
+
+s {
+  border-width: 60 60;
+  border-color: red;
+  top: 60;
+  left: 140;
+}
+
+g {
+  border-width: 6 6;
+  border-radius: 5px 5px 5px 5px;
+  border-color: blue;
+  top: 250;
+  left: 40;
+}
+
+h {
+  border-width: 6 6;
+  border-radius: 5px 5px 5px 5px;
+  border-color: blue;
+  top: 250;
+  left: 350;
+}
+
+i {
+  border-width: 9 0.5;
+  border-color: blue;
+  top: 260;
+  left: 355;
+}
+
+j {
+  border-width: 9 0.5;
+  border-color: blue;
+  top: 260;
+  left: 45;
+}
+
+k {
+  border-width: 0.5 9;
+  border-color: blue;
+  top: 267;
+  left: 347;
+}
+
+l {
+  border-width: 0.5 9;
+  border-color: blue;
+  top: 267;
+  left: 37;
+}
+
+m {
+  border-width: 9 0.5;
+  border-color: blue;
+  top: 275;
+  left: 349;
+  transform: rotate(45deg);
+}
+
+n {
+  border-width: 0.5 9;
+  border-color: blue;
+  top: 282;
+  left: 42;
+  transform: rotate(45deg);
+}
+
+o {
+  border-width: 9 0.5;
+  border-color: blue;
+  top: 275;
+  left: 361;
+  transform: rotate(-45deg);
+}
+
+p {
+  border-width: 0.5 9;
+  border-color: blue;
+  top: 267;
+  left: 30;
+  transform: rotate(-45deg);
+}
